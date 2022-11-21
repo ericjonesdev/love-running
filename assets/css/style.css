@@ -254,7 +254,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("../images/formbg.jpg);
+    background: url('../images/formbg.jpg');
     background-size: cover;
     background-position: center;
     height: 900px;
